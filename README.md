@@ -4,7 +4,7 @@
 ## Bibtex
 @inproceedings{
 anonymous2021the,
-title={The Role of Momentum Parameters in Acceleration of Adaptive Heavy-ball Methods},
+title={The Role of Momentum Parameters in the Optimal Convergence of Polyak's Adaptive Heavy-ball Methods},
 author={Anonymous},
 booktitle={Submitted to International Conference on Learning Representations},
 year={2021},
