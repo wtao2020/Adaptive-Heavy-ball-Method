@@ -1,6 +1,6 @@
 # Adptive Heavy-ball Method
 
-## ICLR2021 paper: The Role of Momentum Parameters in Acceleration of Adaptive Heavy-ball Methods
+## The Role of Momentum Parameters in Acceleration of Adaptive Heavy-ball Methods
 ## Bibtex
 @inproceedings{
 anonymous2021the,
