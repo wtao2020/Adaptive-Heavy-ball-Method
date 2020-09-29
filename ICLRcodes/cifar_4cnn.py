@@ -11,7 +11,7 @@ import pickle
 import os
 os.environ['CUDA_VISIBLE_DEVICES'] = '0,1'
 plt.switch_backend('agg')
-
+# this is a testing line
 
 def exp_sc(opt, epoch, dataset_name='cifar100'):
     num_classes = None
