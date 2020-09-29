@@ -1,6 +1,6 @@
 # Adptive Heavy-ball Method
 
-## The Role of Momentum Parameters in Acceleration of Adaptive Heavy-ball Methods
+## The Role of Momentum Parameters in the Optimal Convergence of Adaptive Heavy-ball Methods
 ## Bibtex
 @inproceedings{
 anonymous2021the,
