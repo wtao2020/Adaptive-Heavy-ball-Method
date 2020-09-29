@@ -1,4 +1,4 @@
-# Adptive Heavy-ball Method
+# Adaptive Heavy-ball Method
 
 ## The Role of Momentum Parameters in the Optimal Convergence of Adaptive Heavy-ball Methods
 ## Bibtex
