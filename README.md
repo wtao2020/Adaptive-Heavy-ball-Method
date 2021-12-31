@@ -3,14 +3,13 @@
 ## The Role of Momentum Parameters in the Optimal Convergence of Adaptive Heavy-ball Methods
 ## Bibtex
 @inproceedings{
-anonymous2021the,
-title={The Role of Momentum Parameters in the Optimal Convergence of Polyak's Adaptive Heavy-ball Methods},
-author={Anonymous},
-booktitle={Submitted to International Conference on Learning Representations},
+tao2021the,
+title={The Role of Momentum Parameters in the Optimal Convergence of Adaptive Polyak's Heavy-ball Methods},
+author={Wei Tao and Sheng Long and Gaowei Wu and Qing Tao},
+booktitle={International Conference on Learning Representations},
 year={2021},
-url={https://openreview.net/forum?id=L7WD8ZdscQ5},
-note={under review}
-} 
+url={https://openreview.net/forum?id=L7WD8ZdscQ5}
+}
 
 
 ## Requirements
